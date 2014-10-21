@@ -22,3 +22,15 @@ cask install transmission 2> /dev/null
 cask install ukelele 2> /dev/null
 cask install virtualbox 2> /dev/null
 cask install vlc 2> /dev/null
+
+# browsers
+cask install firefox
+
+# utils
+cask install google-drive
+cask install evernote
+
+# media, gaming, social
+cask install spotify
+cask install steam
+cask install skype

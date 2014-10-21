@@ -10,6 +10,17 @@ function doIt() {
 	source ~/.bash_profile;
 }
 
+# Ladda ner zsh och sätt det som default shell
+# Kör .osx skriptet
+
+# if test ! $(which brew)
+# then
+#   echo "  Installing Homebrew for you."
+#   ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)" > /tmp/homebrew-install.log
+# fi
+
+# https://github.com/thoughtbot/laptop/blob/master/mac
+
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
 	doIt;
 else

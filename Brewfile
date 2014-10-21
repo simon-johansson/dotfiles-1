@@ -76,6 +76,10 @@ install tree
 install webkit2png
 install zopfli
 
+install grc
+install heroku-toolbelt
+install unrar
+
 install homebrew/versions/lua52
 
 # Remove outdated versions from the cellar
