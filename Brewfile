@@ -76,6 +76,12 @@ install tree
 install webkit2png
 install zopfli
 
+install grc
+install heroku-toolbelt
+install unrar
+
+# zsh ctags git hub tmux reattach-to-user-namespace the_silver_searcher
+
 install homebrew/versions/lua52
 
 # Remove outdated versions from the cellar
